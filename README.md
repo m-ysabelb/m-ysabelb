@@ -1,2 +1,3 @@
-<p> Hi, I’m Mikaila Ysabel, just a random girl who likes to use this GitHub space for my draft code documentations.
-I'm currently learning HTML, CSS, and JS to pursue my passion in frontend web development. <p>
+<p> I’m Mikaila Ysabel, a random girl who loves to utilize this GitHub space for storing
+  HTML, CSS, and JS draft code documentation in order to further her interest and passion
+  in front-end web development. <p>
